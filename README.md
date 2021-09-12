@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashwinisabale
-- 👀 I’m interested in Pythin , Mysql , AWS and GCP 
+- 👀 I’m interested in Python , Mysql , AWS and GCP 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me https://www.linkedin.com/in/ashwini-s-07b785160/
 
